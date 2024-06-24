@@ -1,0 +1,11 @@
+body{ 
+    background-color: black;
+    color: darkslategrey;
+}
+h1{
+    color: azure;
+}
+.pseudo{
+    color: darkgoldenrod;
+}
+p{background-color: brown;}
