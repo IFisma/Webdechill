@@ -1,5 +1,5 @@
 body{
-    background-color: bisque;
+    background-color:bisque;
 }
 p{
     color: black;
@@ -17,10 +17,11 @@ H4{
 H2{
  color: crimson;
 }
-.sustainable{
+.ABC{
     display: inline-block;
     padding:5px 10px;
     background-color:green
-    color(white)
+    color(white);
+    text-align: center;
     
 }
