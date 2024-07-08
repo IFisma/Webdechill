@@ -1,0 +1,64 @@
+body{
+    background-color:bisque;
+    text-align: center;
+}
+p{
+    color: black;
+
+}
+h1{
+    color: rgb(66, 59, 50);
+
+}
+H4{
+    color: chocolate;
+}
+
+
+H2{
+ color: crimson;
+}
+.ABC{
+    display: inline-block;
+    padding:5px 10px;
+    background-color:green
+    color(white);
+    text-align: center;
+    
+}
+.Hpri{
+    color:cadetblue
+}
+.ppp{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+   background-color: cadetblue
+
+}
+.uu{
+    background-color: cadetblue;
+}
+.seudon{
+    color: blue;
+}
+.ABC{
+    background-color: coral;
+    border-radius: 5px;
+  
+    align-items: center;
+    border-color: black 5px;
+}
+.lebel{
+    background-color: beige;
+}
+.textH{
+ text-align:justify;
+}
+.key{
+    text-align: center;
+}
+.state{
+    color: white;
+    background-color:rgb(37, 27, 12);
+   border-radius: color #ffffff 3px;
+}
+
