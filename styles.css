@@ -2,6 +2,8 @@ body{
     background-color:bisque;
     text-align: center;
 }
+.Primdivppp{
+    background-color:rgb(139, 135, 135) }
 p{
     color: black;
 
@@ -60,5 +62,10 @@ H2{
     color: white;
     background-color:rgb(37, 27, 12);
    border-radius: color #ffffff 3px;
+}
+.techmause{
+background-color: burlywood;
+    text-align: center;
+
 }
 
