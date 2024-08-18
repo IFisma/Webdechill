@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Webpacrica"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Webdechill"
+	}
+}
